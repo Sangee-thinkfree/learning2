@@ -1,1 +1,2 @@
-same name but different repository
+same name but different repository.
+what to do next?
