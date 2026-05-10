@@ -1,1 +1,26 @@
-New repository
+
+
+
+Project-An Intelligent Smart Cafeteria Pre-Ordering and Queue 
+        Optimization System for University Students
+
+Current problems:-
+    1.Long Queue
+    2.Students sometimes misses lectures cause of delays.
+    3.Cafeteria can't predict demands
+    4.Some times foods get wasted which also lose for cafeteria
+    5.Menu info unavailable
+    6.Uncertanity of food availability
+    7.No digital payment
+
+Advantage for students:-
+    1.View menu online
+    2.pre-order food
+    3.Online payment facility
+    4.recive QR for collect food
+    5.Ability to find nutrition accommodation
+
+Adavantage for Cafeteria:-
+    1.see incoming orders 
+    2.estimate crowd
+    3.manage food stocks
